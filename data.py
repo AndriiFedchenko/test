@@ -1,4 +1,5 @@
 data = {
     "name": "Serg",
-    "surname" : "Ququir"
+    "surname" : "Ququir",
+    "age": 20
 }
