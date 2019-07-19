@@ -1,2 +1,7 @@
-Programm for wellcoming
-Just open
+1. git init
+2. work:
+  - writing
+  - git add
+  - git commit -m "text"
+3. (git remote add origin "https:asdfsdfgdf.git")
+git push
