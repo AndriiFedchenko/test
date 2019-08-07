@@ -1,7 +1,0 @@
-1. git init
-2. work:
-  - writing
-  - git add
-  - git commit -m "text"       (or git commit    then write comment and <esc> ":wq")
-3. (git remote add origin "https:asdfsdfgdf.git")
-git push
